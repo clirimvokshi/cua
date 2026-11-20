@@ -1,7 +1,5 @@
 name: zzmini
 on:
-  push:
-    branches: [ pentest-i4715 ]
   workflow_dispatch:
 jobs:
   a:
